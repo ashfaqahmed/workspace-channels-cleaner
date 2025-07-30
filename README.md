@@ -44,16 +44,16 @@
 ### 📸 Screenshots
 
 **Main Menu**
-![Main Menu](https://ashfaq.dev/github/workspace-channels-cleaner/main-menu.png)
+![Main Menu](https://ashfaq.dev/github/workspace-channels-cleaner/main-menu.png?v=1)
 
 **Configuration Screen**
-![Configuration](https://ashfaq.dev/github/workspace-channels-cleaner/configuration.jpg)
+![Configuration](https://ashfaq.dev/github/workspace-channels-cleaner/configuration.jpg?v=1)
 
 **Channel Results with Pagination**
-![Channel Results](https://ashfaq.dev/github/workspace-channels-cleaner/channel_leave.jpg)
+![Channel Results](https://ashfaq.dev/github/workspace-channels-cleaner/channel_leave.jpg?v=1)
 
 **Skip List Management**
-![Skip List](https://ashfaq.dev/github/workspace-channels-cleaner/skip_list.jpg)
+![Skip List](https://ashfaq.dev/github/workspace-channels-cleaner/skip_list.jpg?v=1)
 
 ### Prerequisites
 - Go 1.24 or higher
