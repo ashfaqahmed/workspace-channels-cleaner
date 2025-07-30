@@ -1,0 +1,76 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build artifacts
+workspace-cleaner-tui
+slack-cleaner-tui
+main
+*.exe
+*.dmg
+*.deb
+*.rpm
+*.tar.gz
+*.zip
+
+# Go build files
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+
+# Go test files
+*.test
+*.out
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+
+# Configuration files with sensitive data
+config/app.json
+config/skiplist.json
+
+# Workspace tokens and API keys
+slack_token.txt
+api_keys.txt
+
+# Personal development files (not for public repo)
+bkmain.go
+env.example
+
+# Development guides (optional - you can remove these if you want them public)
+RENAME_SUMMARY.md
+LEGAL_PROTECTION_SUMMARY.md
+PUBLISHING_GUIDE.md
+
+# Screenshots (keep these for documentation)
+# screenshots/*.png
+# screenshots/*.jpg 

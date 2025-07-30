@@ -1,0 +1,7 @@
+{
+  "days": 30,
+  "limit": 30,
+  "types": ["public"],
+  "verbose": false,
+  "keyword": ""
+} 
