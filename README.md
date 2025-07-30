@@ -2,7 +2,7 @@
 
 [![Go Version](https://img.shields.io/badge/Go-1.24+-blue.svg)](https://golang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Go Report Card](https://goreportcard.com/badge/github.com/ashfaqahmed/workspace-channel-cleaner)](https://goreportcard.com/report/github.com/ashfaqahmed/workspace-channel-cleaner)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ashfaqahmed/workspace-channels-cleaner)](https://goreportcard.com/report/github.com/ashfaqahmed/workspace-channels-cleaner)
 
 > A terminal app I built to help clean up stale channels in Slack workspaces. It's got a nice UI, protects important channels, and makes it easy to manage your workspace without accidentally leaving channels you need.
 
@@ -42,16 +42,16 @@
 ### 📸 Screenshots
 
 **Main Menu**
-![Main Menu](https://ashfaq.dev/github/workspace-channel-cleaner/main-menu.png)
+![Main Menu](https://ashfaq.dev/github/workspace-channels-cleaner/main-menu.png)
 
 **Configuration Screen**
-![Configuration](https://ashfaq.dev/github/workspace-channel-cleaner/configuration.jpg)
+![Configuration](https://ashfaq.dev/github/workspace-channels-cleaner/configuration.jpg)
 
 **Channel Results with Pagination**
-![Channel Results](https://ashfaq.dev/github/workspace-channel-cleaner/channel_leave.jpg)
+![Channel Results](https://ashfaq.dev/github/workspace-channels-cleaner/channel_leave.jpg)
 
 **Skip List Management**
-![Skip List](https://ashfaq.dev/github/workspace-channel-cleaner/skip_list.jpg)
+![Skip List](https://ashfaq.dev/github/workspace-channels-cleaner/skip_list.jpg)
 
 ### Prerequisites
 - Go 1.24 or higher
@@ -61,8 +61,8 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ashfaqahmed/workspace-channel-cleaner.git
-   cd workspace-channel-cleaner
+   git clone https://github.com/ashfaqahmed/workspace-channels-cleaner.git
+cd workspace-channels-cleaner
    ```
 
 2. **Install dependencies**:
@@ -242,7 +242,7 @@ Your workspace token must have the following scopes:
 
 ### Project Structure
 ```
-workspace-channel-cleaner/
+workspace-channels-cleaner/
 ├── main.go              # Application entry point
 ├── model/
 │   └── model.go         # TUI model and state management
@@ -263,8 +263,8 @@ workspace-channel-cleaner/
 
 ```bash
 # Clone the repository
-git clone https://github.com/ashfaqahmed/workspace-channel-cleaner.git
-cd workspace-channel-cleaner
+git clone https://github.com/ashfaqahmed/workspace-channels-cleaner.git
+cd workspace-channels-cleaner
 
 # Install dependencies
 go mod tidy

@@ -19,8 +19,8 @@ import (
 	"log"
 	"os"
 
-	"workspace-channel-cleaner/config"
-	"workspace-channel-cleaner/model"
+	"workspace-channels-cleaner/config"
+	"workspace-channels-cleaner/model"
 
 	"github.com/charmbracelet/bubbletea"
 )

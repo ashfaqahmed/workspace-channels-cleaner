@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"strings"
 
-	"workspace-channel-cleaner/config"
-	"workspace-channel-cleaner/slack"
+	"workspace-channels-cleaner/config"
+	"workspace-channels-cleaner/slack"
 
 	"github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"

@@ -1,4 +1,4 @@
-module workspace-channel-cleaner
+module workspace-channels-cleaner
 
 go 1.24
 
