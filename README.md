@@ -6,6 +6,8 @@
 
 > A terminal app I built to help clean up stale channels in Slack workspaces. It's got a nice UI, protects important channels, and makes it easy to manage your workspace without accidentally leaving channels you need.
 
+> 💻 **Looking for a simple command-line CLI version?** Check out [workspace-channel-cleaner-cli](https://github.com/ashfaqahmed/workspace-channel-cleaner-cli) for a lightweight, automation-friendly CLI tool perfect for scripts and batch processing.
+
 ## ✨ Features
 
 ### 🎨 Nice Terminal Interface
